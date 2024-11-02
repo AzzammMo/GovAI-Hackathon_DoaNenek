@@ -1,0 +1,7 @@
+jenis_produk,rute,faktor_external,tingkat_risiko,probabilitas_keterlambatan,probabilitas_kerusakan,tindakan_mitigasi
+Kopi Arabika,Rute 1,Cuaca Buruk,Rendah,0.2,0.1,"Monitor cuaca dan rencana kontinjensi, serta berkoordinasi dengan agen pengiriman untuk update informasi terkini."
+Teh Hijau,Rute 2,Banjir,Sedang,0.3,0.25,"Kemas tambahan, cek jadwal pelabuhan, dan gunakan pelacakan kontainer secara real-time untuk meminimalkan risiko."
+Beras Organik,Rute 3,Cuaca Ekstrem,Tinggi,0.4,0.35,"Evaluasi kondisi kontainer, gunakan asuransi lengkap, dan lakukan inspeksi rutin terhadap barang yang dikirim."
+Cokelat Premium,Rute 4,Cuaca Buruk,Rendah,0.2,0.08,"Periksa jalur alternatif jika ada kendala, serta konsultasikan dengan agen logistik lokal untuk opsi yang lebih baik."
+Minyak Zaitun,Rute 5,Banjir,Sedang,0.35,0.2,"Pengemasan ekstra dan kontrol suhu, serta melakukan simulasi pengiriman untuk mengidentifikasi potensi masalah."
+Pasta Gourmet,Rute 10,Cuaca Buruk,Sedang,0.3,0.2,"Pastikan jalur pengiriman tidak rawan kemacetan, serta gunakan teknologi untuk mengoptimalkan rute dan waktu pengiriman."
